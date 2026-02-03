@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Ma faci intradevar cel mai fericit barbat di lume 💝💖💝💓",
-        message: "Abia astept sa petrecem ziua indragostitilor impreuna cu tine amore 💓💓💓 ",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Imi doresc sa te fac cea mai fericita femeie din lume 💝💖💝💓",
+        message: "Abia astept sa petrec ziua indragostitilor impreuna cu tine amore mio ❤️❤️❤️ ",
+        emojis: "❤️❤️❤️❤️❤️"  // These will bounce around
     },
 
     // Color scheme for the website
